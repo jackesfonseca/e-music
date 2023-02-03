@@ -1,0 +1,4 @@
+django==latest
+djangorestframework==latest
+django-cors-headers==latest
+pika==latest
