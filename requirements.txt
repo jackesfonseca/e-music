@@ -1,4 +1,4 @@
-django==latest
-djangorestframework==latest
-django-cors-headers==latest
-pika==latest
+django==4.1.6
+djangorestframework==3.14.0
+django-cors-headers==3.13.0
+pika==1.3.1
